@@ -1,5 +1,5 @@
 import lyricsgenius as genius
-api = genius.Genius('NIZXBYOLHshbaMMd2djqax54_0AG3H-AQMjpWvCuYzeIUHZzyrpTlPjuPKjm8X2d')
+api = genius.Genius('__genious_client_secret__')
 artist = api.search_artist('florence and the machine')
 lyrics = artist.save_lyrics()
 
