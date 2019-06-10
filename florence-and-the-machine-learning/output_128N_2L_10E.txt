@@ -1,0 +1,291 @@
+6,020 texts collected.
+Training on 146,631 character sequences.
+Epoch 1/10
+1145/1145 [==============================] - 1197s 1s/step - loss: 1.3286
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+so louder than heaven lands are the devoir
+
+
+
+
+
+####################
+Temperature: 1.0
+####################
+look up, i can keep your own
+
+they don't sleep for you real
+
+stays
+
+Epoch 2/10
+1145/1145 [==============================] - 670s 586ms/step - loss: 1.1212
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+i have to control the hardest of the daylight
+
+and i can see the ground
+
+
+
+####################
+Temperature: 1.0
+####################
+no water itself away with elemating
+
+i'm too long, i hope
+
+
+
+Epoch 3/10
+1145/1145 [==============================] - 678s 592ms/step - loss: 1.0181
+####################
+Temperature: 0.2
+####################
+
+
+i want to go on to the start
+
+
+
+####################
+Temperature: 0.5
+####################
+
+
+and i can see the day and heavy
+
+i got the love of you
+
+####################
+Temperature: 1.0
+####################
+
+
+i’ll cause them just misery hurt now
+
+
+
+Epoch 4/10
+1145/1145 [==============================] - 666s 582ms/step - loss: 0.9384
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+and the bells are over
+
+i'm not coming to way, they seems that someone singles
+
+and my mouth of your heart
+
+####################
+Temperature: 1.0
+####################
+so we know why
+
+ah sound
+
+i
+
+Epoch 5/10
+1145/1145 [==============================] - 671s 586ms/step - loss: 0.8680
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+
+
+
+
+
+
+####################
+Temperature: 1.0
+####################
+
+
+i can see the sad, hery carrow to rest see
+
+'tink about my tabletogod sile are from the sunrising in the teeth, rooms to fall
+
+Epoch 6/10
+1145/1145 [==============================] - 1181s 1s/step - loss: 0.8056
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+
+
+
+
+
+
+####################
+Temperature: 1.0
+####################
+a treatme in my last your view
+
+quickson, hurting the moon
+
+
+
+Epoch 7/10
+1145/1145 [==============================] - 1406s 1s/step - loss: 0.7444
+####################
+Temperature: 0.2
+####################
+
+
+
+
+and i can see it with my house
+
+####################
+Temperature: 0.5
+####################
+
+
+
+
+and the day is done
+
+####################
+Temperature: 1.0
+####################
+i'm not far
+
+we say it makes emay from the time
+
+what kind of man loves, this will youth
+
+Epoch 8/10
+1145/1145 [==============================] - 1414s 1s/step - loss: 0.6897
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+i have to feel it on me, love, seen it in my mind
+
+i am the same, i'm the same, i'm trying to change
+
+and i'm gonna cut it out
+
+####################
+Temperature: 1.0
+####################
+bed to get eched miles now gun
+
+
+
+tear my stones now fall
+
+Epoch 9/10
+1145/1145 [==============================] - 1405s 1s/step - loss: 0.6409
+####################
+Temperature: 0.2
+####################
+
+
+
+
+and i can see it with my grand on the room
+
+####################
+Temperature: 0.5
+####################
+
+
+there's no salvation for me now
+
+
+
+####################
+Temperature: 1.0
+####################
+you hit me away
+
+tenderest is a heavy
+
+carry up never leave and it was so hanging
+
+Epoch 10/10
+1145/1145 [==============================] - 1410s 1s/step - loss: 0.5967
+####################
+Temperature: 0.2
+####################
+
+
+and i can see it with my grace
+
+
+
+####################
+Temperature: 0.5
+####################
+
+
+and at least i was a fall
+
+
+
+####################
+Temperature: 1.0
+####################
+your week and heaven too
+
+she sleeps with metals
+
+buck the wolf in your hudbregts

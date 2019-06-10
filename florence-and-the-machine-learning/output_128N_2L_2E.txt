@@ -1,0 +1,62 @@
+6,020 texts collected.
+Training new model w/ 2-layer, 128-cell LSTMs
+Training on 146,631 character sequences.
+Epoch 1/2
+1145/1145 [==============================] - 1361s 1s/step - loss: 2.3507
+####################
+Temperature: 0.2
+####################
+i can the was it all all oh oh hoo
+
+i can the seel on the shear i'm gon you heave of me
+
+
+
+####################
+Temperature: 0.5
+####################
+
+
+and i wan i han't a been get death blaked me
+
+and with i seed on the sall up and you seel bed on you hear
+
+####################
+Temperature: 1.0
+####################
+
+
+then'le necer of in hern't i'm coull
+
+
+
+Epoch 2/2
+1145/1145 [==============================] - 1345s 1s/step - loss: 1.4913
+####################
+Temperature: 0.2
+####################
+
+
+and i can see it to the start to stand
+
+and the stand stound
+
+####################
+Temperature: 0.5
+####################
+it's touch it's gound mine
+
+
+
+the starts to shake it out, shake it out, shake it out, shake it out, shake it it out, shake it out
+
+####################
+Temperature: 1.0
+####################
+mocht ard ouf tommost fould never gill
+
+and the only like your
+
+you're toughs, you're this get in your drims to lover is you uit up throug and live go
+
+and i can the never make a free the same

@@ -1,0 +1,154 @@
+6,020 texts collected.
+Training on 146,631 character sequences.
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/math_grad.py:102: div (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Deprecated in favor of operator or tf.math.divide.
+Epoch 1/5
+1145/1145 [==============================] - 1141s 997ms/step - loss: 1.3257
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+so many to do in your name except
+
+the chain
+
+
+
+####################
+Temperature: 1.0
+####################
+black me eachwrap
+
+hates like a risk
+
+
+
+Epoch 2/5
+1145/1145 [==============================] - 1092s 954ms/step - loss: 1.1029
+####################
+Temperature: 0.2
+####################
+i know it's real
+
+
+
+and i can see it up, i know it's real
+
+####################
+Temperature: 0.5
+####################
+
+
+only i love you a more day
+
+i'm going to leave me, you see it all the way
+
+####################
+Temperature: 1.0
+####################
+
+
+blows his lifee in my skin
+
+lay i am the sand, won't you had to know me?
+
+Epoch 3/5
+1145/1145 [==============================] - 1365s 1s/step - loss: 0.9811
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+
+
+
+
+i will be
+
+####################
+Temperature: 1.0
+####################
+i said,  stife in this throwing out, ooh what act that far?
+
+you could just hell
+
+you know it's reaching
+
+Epoch 4/5
+1145/1145 [==============================] - 1268s 1s/step - loss: 0.8793
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+
+
+
+
+
+
+####################
+Temperature: 1.0
+####################
+a music enough of the horse i was but you still me
+
+on the donk before the halls in breath in plate
+
+
+
+Epoch 5/5
+1145/1145 [==============================] - 1221s 1s/step - loss: 0.7931
+####################
+Temperature: 0.2
+####################
+
+
+
+
+and i can see it in the dark and who don't see it with my life
+
+####################
+Temperature: 0.5
+####################
+
+
+and all of the one every day was man
+
+the shadow of my head is a hundred song
+
+####################
+Temperature: 1.0
+####################
+some that everyong where it wasn't
+
+and all the changestoy
+
+wasting mine with a colour in life and broke doors
+
+and i'm not crying the watchword

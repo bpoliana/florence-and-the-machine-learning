@@ -1,0 +1,152 @@
+
+
+6,020 texts collected.
+Training on 146,631 character sequences.
+Epoch 1/10
+1145/1145 [==============================] - 1297s 1s/step - loss: 1.3418
+####################
+Temperature: 0.2
+####################
+i'm the love of the world's of the same
+
+and i'm the love in the darks and i'm the love
+
+
+
+####################
+Temperature: 0.5
+####################
+me don't make a dresses and i'm the love
+
+and it's a devilonial all the dark
+
+there's a dancer in the dark and heaven show and i'm not free the dancer
+
+####################
+Temperature: 1.0
+####################
+and again between you
+
+you't flying on whose froot the wood
+
+drinking a hell
+
+Epoch 2/10
+1145/1145 [==============================] - 1403s 1s/step - loss: 1.1315
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+and the world say so i could sweet to stand between my mouth
+
+stand by me, something were stand by me
+
+i can never enough
+
+####################
+Temperature: 1.0
+####################
+oo, say what i don't stay, me ordok in the waiting
+
+to you turn, the dark wash
+
+do you feel see
+
+Epoch 3/10
+1145/1145 [==============================] - 1410s 1s/step - loss: 1.0260
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+whoa, you can't speak and i count me out
+
+and the day i want my hand
+
+and i don't care in my breath
+
+####################
+Temperature: 1.0
+####################
+
+
+but i' tiny, but no more drunk is last
+
+
+
+Epoch 4/10
+1145/1145 [==============================] - 1412s 1s/step - loss: 0.9440
+####################
+Temperature: 0.2
+####################
+
+
+
+
+the streetlight is alone
+
+####################
+Temperature: 0.5
+####################
+
+
+and in the light of your heart
+
+here to come to you lover
+
+####################
+Temperature: 1.0
+####################
+whoa i should say my new smoo know?
+
+
+
+(we are shiping here)
+
+Epoch 5/10
+1145/1145 [==============================] - 1344s 1s/step - loss: 0.8722
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+the start is so much time
+
+stand by me
+
+
+
+####################
+Temperature: 1.0
+####################
+so i believe, a houh, you loved your feet
+
+who is getting predmsist?
+
+
+
+Epoch 6/10
+   2/1145 [..............................] - ETA: 17:04 - loss: 0.8088
+
