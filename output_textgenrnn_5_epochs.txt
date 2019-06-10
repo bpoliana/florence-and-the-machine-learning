@@ -1,0 +1,152 @@
+6,020 texts collected.
+Training on 146,631 character sequences.
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/math_grad.py:102: div (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Deprecated in favor of operator or tf.math.divide.
+Epoch 1/5
+1145/1145 [==============================] - 352s 307ms/step - loss: 1.3291
+####################
+Temperature: 0.2
+####################
+
+
+
+
+i can see it on the same
+
+####################
+Temperature: 0.5
+####################
+it was our love to since the stars and then the same heart
+
+the darkest couldn't come it had it anything that i see you who
+
+
+
+####################
+Temperature: 1.0
+####################
+
+
+then i'm going to
+
+you want too lover girl i knew on your
+
+Epoch 2/5
+1145/1145 [==============================] - 354s 309ms/step - loss: 1.1011
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+and the body, i think i can do
+
+and the same, i can't hear the soul is but it just forgo
+
+
+
+####################
+Temperature: 1.0
+####################
+now there's so much, oohth of hope
+
+
+
+
+
+Epoch 3/5
+1145/1145 [==============================] - 354s 309ms/step - loss: 0.9809
+####################
+Temperature: 0.2
+####################
+
+
+it's a little time
+
+i will be afraid again
+
+####################
+Temperature: 0.5
+####################
+
+
+and it's always calling me how by the shouse
+
+i hit you bone
+
+####################
+Temperature: 1.0
+####################
+
+
+
+
+i can't get enough daylight
+
+Epoch 4/5
+1145/1145 [==============================] - 354s 309ms/step - loss: 0.8805
+####################
+Temperature: 0.2
+####################
+
+
+
+
+
+
+####################
+Temperature: 0.5
+####################
+
+
+the streettup
+
+
+
+####################
+Temperature: 1.0
+####################
+can you still be rust...
+
+run releare if only own up at away
+
+is not in new thing not you to trand me
+
+Epoch 5/5
+1145/1145 [==============================] - 357s 312ms/step - loss: 0.7951
+####################
+Temperature: 0.2
+####################
+
+
+
+
+it's times like these you learn to love
+
+####################
+Temperature: 0.5
+####################
+the dog days are so high
+
+
+
+
+
+####################
+Temperature: 1.0
+####################
+a devotion in my air we don't get
+
+ and it was a sinner to give
+
+
